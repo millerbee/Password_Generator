@@ -1,7 +1,7 @@
 # Password_Generator
-# This generator prompts the user to verify some parameters to create a password.
-# First, the password must be between 8 and 128 characters long and their entry should be numeric.
-# Second, does the user want to use:
+ This generator prompts the user to verify some parameters to create a password.
+ First, the password must be between 8 and 128 characters long and their entry should be numeric.
+ Second, does the user want to use:
 #            special characters
 #            numbers
 #            upper case letters
