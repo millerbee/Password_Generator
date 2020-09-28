@@ -12,3 +12,6 @@
  
 
  thank you to my great tutor Tyler Bolty who explains everything so well!
+
+
+before I commited my code I verified it worked as expected, after commit I verified again, and now something seems wrong, I can't get it to work and code matches my local git which works fine.
