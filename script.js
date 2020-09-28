@@ -54,7 +54,7 @@ function generatePassword(){
 if (options.specChar === true) {                                                                         //these if conditions take the values from generatePassword function,
     possibleChar=possibleChar.concat(spChar)                                                             //concatentates and tells getRandom function to perform the randomizing.
     gauranteeChar.push(getRandom(spChar))
-     
+}
  if (options.upperChar === true) {
     possibleChar=possibleChar.concat(uppers)
     gauranteeChar.push(getRandom(uppers))
