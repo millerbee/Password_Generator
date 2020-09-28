@@ -96,11 +96,3 @@ generateBtn.addEventListener("click", writePassword);
 
 
 
-
-
-  // Write password to the #password input
- 
-
-
-// Add event listener to generate button
-//generateBtn.addEventListener("click", writePassword);
